@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/bin/bash
 
 # Install git
 \curl -sSL https://get-git.rvm.io | bash
