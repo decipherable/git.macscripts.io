@@ -1,8 +1,5 @@
 #!/bin/bash
 
-# Install git
-\curl -sSL https://get-git.rvm.io | bash
-
 # Install RVM
 \curl -sSL https://get.rvm.io | bash -s stable
 
